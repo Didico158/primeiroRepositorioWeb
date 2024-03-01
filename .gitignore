@@ -399,4 +399,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # ignore doc/notes.txt, but not doc/server/arch.txt
-doc/*minhasPendecias.txt
+*minhasPendecias.txt
